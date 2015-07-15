@@ -17,7 +17,8 @@ System_Account="USER/PASSWORD"
 Test_Account="USER/PASSWORD"
 ```
 
-# Functions are at the bottom of the script, comment/reorder for desired effect.
+# Functions
+Comment/reorder for desired effect.
 
 - disable-test-instance
 - copy-backup-dmb
