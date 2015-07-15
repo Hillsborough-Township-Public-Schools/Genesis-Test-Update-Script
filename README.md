@@ -3,7 +3,7 @@ Automate cycling Tomcat Service, copying production database to test database, a
 
 # Settings File
 Create a file at C:\genesis_test_update\settings.txt as referenced in the beginning of the script.
-
+'''
 [General]
 MySetting1=value
 Tomcat_Service_Name="Tomcat7"
@@ -14,3 +14,4 @@ Tomcat_Test_Location="D:\tomcat\conf\Catalina\localhost\test.xml"
 [Credentials]
 System_Account="USER/PASSWORD"
 Test_Account="USER/PASSWORD"
+'''
