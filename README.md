@@ -16,3 +16,14 @@ Tomcat_Test_Location="D:\tomcat\conf\Catalina\localhost\test.xml"
 System_Account="USER/PASSWORD"
 Test_Account="USER/PASSWORD"
 ```
+
+# Functions are at the bottom of the script, comment/reorder for desired effect.
+
+- disable-test-instance
+- copy-backup-dmb
+- decompress-backup
+- clear-test-db
+- import-test-db
+- disable-scheduler-reports
+- enable-test-instance
+- finishing-database-steps
